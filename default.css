@@ -9,11 +9,16 @@ body{
   background-color: black;
   text-align: center;
 }
-b{
-  background-color: teal;
+button{
+  background-color: cyan;
   font-family: Pacifico;
   font-size: 24px;
+  color: black;
 } 
+.strong{
+  color:magenta;
+  background-color:cyan;
+}
 p{
   font-family:Merriweather:wght@300;
   font-size:24px;
