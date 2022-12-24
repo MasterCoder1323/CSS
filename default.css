@@ -5,6 +5,14 @@
   text-align: center;
   color: magenta;
 }
+img{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  border: 10px solid gold ;
+  border-radius: 20px;
+  padding:10px;
+}  
 body{
   background-color: black;
   text-align: center;
