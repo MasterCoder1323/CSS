@@ -15,6 +15,20 @@ p{
   text-align: justify;
   color: orange;
 }
+a{
+  font-size: 24px;
+  font-family:Merriweather:wght@300;
+  color:blue;
+  background-color: orange;
+  transition: 1;
+} 
+a:hover{
+  font-size: 24px;
+  font-family:Merriweather:wght@300;
+  color:orange;
+  background-color: blue;
+  transition: 1;
+}  
 h1{
   font-family:Black Ops One;
   color: blue;
