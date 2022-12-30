@@ -22,6 +22,7 @@ button{
   font-family: Pacifico;
   font-size: 24px;
   color: black;
+  border-radius: 10px;
 } 
 .strong{
   color:magenta;
